@@ -68,7 +68,7 @@
 | AudioRecorder XS | ✔️ | - | [Limneos Repo](http://limneos.net/repo/) |
 | AutoBrightnessToggle (CCSupport) | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | AutoUnlockX | ✔️ | - | [SparkDev](https://sparkdev.me) |
-| Axon | ❌ | Sends you to safe mode when clicking on notifications. | [Merona Repo](https://repo.co.kr) |
+| Axon | ✔️ | - | [Merona Repo](https://repo.co.kr) |
 | BackgrounderAction15 (CCSupport) | ✔️ | - | [Akusio repo](https://akusio.github.io) |
 | Badger | ✔️ | - | [Havoc](https://havoc.app) |
 | Barmoji | ✔️ | - | [Johnnyb186's Repo](https://johnnyb186.yourepo.com/) |
